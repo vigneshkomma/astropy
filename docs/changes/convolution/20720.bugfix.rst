@@ -1,0 +1,2 @@
+Fixed ``Box1DKernel`` and ``Box2DKernel`` ignoring an explicitly passed
+``mode`` argument and always using ``'linear_interp'``.
